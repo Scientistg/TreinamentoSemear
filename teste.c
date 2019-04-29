@@ -5,5 +5,6 @@ int i = 1;
 
 
 int main(){
-    printf("Teste");
+    printf("Teste\n");
+    printf("Dois Beijos Comum\n");
 }
