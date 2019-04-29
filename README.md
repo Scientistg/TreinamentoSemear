@@ -1,2 +1,2 @@
 # TreinamentoSemear
-Treinamento do semear em git
+Treinamento do semear em git.
